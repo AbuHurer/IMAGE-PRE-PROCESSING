@@ -34,4 +34,5 @@ These features serve as input for machine learning models.<br>
 Enhances model performance: Properly preprocessed images lead to better model accuracy.
 Removes artifacts: Corrects imperfections introduced during image acquisition.
 Standardizes data: Ensures consistent input for algorithms.
-In summary, image preprocessing optimizes data quality, making it more suitable for subsequent analysis or machine learning tasks. Remember that the choice of preprocessing techniques depends on the specific problem and dataset. 📸👓🌟</li></pre>
+In summary, image preprocessing optimizes data quality, making it more suitable for subsequent analysis or machine learning tasks. 
+Remember that the choice of preprocessing techniques depends on the specific problem and dataset. 📸👓🌟</li></pre>
